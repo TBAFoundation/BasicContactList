@@ -1,0 +1,14 @@
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\bin\Debug\net7.0\BasicContactList.exe
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\bin\Debug\net7.0\BasicContactList.deps.json
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\bin\Debug\net7.0\BasicContactList.runtimeconfig.json
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\bin\Debug\net7.0\BasicContactList.dll
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\bin\Debug\net7.0\BasicContactList.pdb
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.AssemblyInfoInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.AssemblyInfo.cs
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.csproj.CoreCompileInputs.cache
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.dll
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\refint\BasicContactList.dll
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.pdb
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\BasicContactList.genruntimeconfig.cache
+C:\Users\TB\Desktop\MGQSAssessment\BasicContactList\obj\Debug\net7.0\ref\BasicContactList.dll
